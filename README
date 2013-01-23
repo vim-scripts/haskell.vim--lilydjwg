@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4407
+
+Another indentation script for Haskell. There is already one vimscript #1968.
+
+Mappings:
+
+If no 'g:Haskell_no_mapping' defined, <BS> and <C-d> will be imapped to dedent.
